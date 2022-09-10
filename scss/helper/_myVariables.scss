@@ -1,0 +1,33 @@
+body {
+    color: #121212 !important;
+}
+
+ul,
+li {
+    padding: 0 !important;
+    margin: 0 !important;
+    list-style: none !important;
+}
+
+img {
+    width: 100% !important;
+    height: 100% !important;
+    vertical-align: middle !important;
+    object-fit: cover !important;
+}
+
+$font-14: 14px;
+$font-16: 16px;
+$font-20: 20px;
+$font-24: 24px;
+$font-32: 32px;
+$font-40: 40px;
+$font-48: 48px;
+
+h2 {
+    font-size: $font-48  !important;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif !important;
+}
